@@ -1,0 +1,26 @@
+# 生产环境配置
+server.port: 8888
+
+#日志配置
+log:
+#    path: /Users/godykc/WorkSpace/logs/wechat
+    path: /Users/wangchuan/Downloads/logs/wechat
+    level: info
+    sqllevel: error
+
+spring:
+    redis:
+        host: 139.196.100.112
+        port: 6379
+        password: xiaomubiao
+        database: 8
+        timeout: 10000
+        pool:
+            max-active: 10
+            max-idle: 10
+            min-idle: 5
+            max-wait: -1
+
+filePath: /Users/godykc/WorkSpace/files/
+templatePath: /Users/godykc/WorkSpace/github/weixin-java-mp/src/main/resources/image/template1.svg
+

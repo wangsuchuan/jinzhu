@@ -1,0 +1,61 @@
+<svg width="750" height="1334" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <style type="text/css">
+        @font-face {
+          font-family: "hobostd";
+          src: url("/Users/godykc/Downloads/material/hobostd.otf");
+        }
+    </style>
+    <style type="text/css">
+        @font-face {
+            font-family: "song";
+            src: url("/Users/godykc/Downloads/material/SourceHanSansCN.otf");
+        }
+    </style>
+    <image width="750px" height="1334px" xlink:href="/Users/godykc/Downloads/material/Group.png" id="base"/>
+    <text>
+      <tspan id="scoreS" y="376" font-size="60px" fill="#BD2727" font-family="hobostd">
+      </tspan>
+      <tspan id="contentS1" y="457" x="48" font-size="28px" fill="#276BBD" font-family="song">
+      </tspan>
+      <tspan id="contentS2" y="525" x="48" font-size="28px" fill="#276BBD" font-family="song">
+      </tspan>
+      <tspan id="contentS3" y="588" x="48" font-size="28px" fill="#276BBD" font-family="song">
+      </tspan>
+
+      <tspan id="scoreT" y="376" font-size="60px" fill="#BD2727" font-family="hobostd">
+      </tspan>
+      <tspan id="contentT1" y="457" x="442" font-size="28px" fill="#D81845" font-family="song">
+      </tspan>
+      <tspan id="contentT2" y="525" x="442" font-size="28px" fill="#D81845" font-family="song">
+      </tspan>
+      <tspan id="contentT3" y="588" x="442" font-size="28px" fill="#D81845" font-family="song">
+      </tspan>
+
+      <tspan id="scoreJ" y="883" font-size="60px" fill="#BD2727" font-family="hobostd">
+      </tspan>
+      <tspan id="contentJ1" y="964" x="48" font-size="28px" fill="#3F8535" font-family="song">
+      </tspan>
+      <tspan id="contentJ2" y="1032" x="48" font-size="28px" fill="#3F8535" font-family="song">
+      </tspan>
+      <tspan id="contentJ3" y="1095" x="48" font-size="28px" fill="#3F8535" font-family="song">
+      </tspan>
+
+      <tspan id="scoreC" y="883" font-size="60px" fill="#BD2727" font-family="hobostd">
+      </tspan>
+      <tspan id="contentC1" y="964" x="442" font-size="28px" fill="#AC6B26" font-family="song">
+      </tspan>
+      <tspan id="contentC2" y="1032" x="442" font-size="28px" fill="#AC6B26" font-family="song">
+      </tspan>
+      <tspan id="contentC3" y="1095" x="442" font-size="28px" fill="#AC6B26" font-family="song">
+      </tspan>
+
+    </text>
+     <image y="642" x="328" id="avatar" width="96px" height="96px"
+      xlink:href="http://img.tukexw.com/img/4386697ea890eaf9.jpg"/>
+       <image y="642" x="328" width="96px" height="96px" xlink:href="/Users/godykc/Downloads/material/Oval.png"/>
+
+      <circle id="circleL" cy="757" r="14" stroke="white" stroke-width="2" fill="white"/>
+      <circle id="circleR" cy="757" r="14" stroke="white" stroke-width="2" fill="white"/>
+      <rect id="rect" y="742" height="30" fill="white"/>
+      <text y="764" id="nickName" font-size="22px" fill="#BD2727" font-family="song"></text>
+</svg>

@@ -1,0 +1,24 @@
+# 生产环境配置
+server.port: 7115
+
+#日志配置
+log:
+    path: /usr/local/src/springboot/production/wechat/log
+    level: info
+    sqllevel: error
+
+spring:
+    redis:
+        host: 172.19.192.63
+        port: 6379
+        password: CUbuzHMpuZwTfvhH
+        database: 6
+        timeout: 10000
+        pool:
+            max-active: 10
+            max-idle: 10
+            min-idle: 5
+            max-wait: -1
+
+filePath: /usr/local/src/springboot/production/wechat/files/
+templatePath: /usr/local/src/springboot/production/wechat/material/template.svg

@@ -1,0 +1,18 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.github.binarywang.demo.wx.mp.config.WxMpProperties",
+      "name": "wx.mp",
+      "type": "com.github.binarywang.demo.wx.mp.config.WxMpProperties"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.github.binarywang.demo.wx.mp.config.WxMpProperties",
+      "name": "wx.mp.configs",
+      "description": "Description for wx.mp.configs.",
+      "type": "java.util.List<com.github.binarywang.demo.wx.mp.config.WxMpProperties.MpConfig>"
+    }
+  ]
+}

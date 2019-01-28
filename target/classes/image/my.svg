@@ -1,0 +1,71 @@
+<svg width="750" height="1334" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <style type="text/css">
+    @font-face {
+      font-family: "hobostd";
+      src: url("/Users/godykc/Downloads/hobo-std/hobostd.otf");
+    }
+  </style>
+    <image xlink:href="/Users/godykc/Downloads/Group_slices/Group@2x.png" id="base"/>
+    <text>
+      <tspan y="376" x="176" font-size="60px" fill="#BD2727" font-family="hobostd">
+        123
+      </tspan>
+      <tspan y="457" x="48" font-size="28px" fill="#276BBD">
+        这个文案七个字
+      </tspan>
+      <tspan y="525" x="48" font-size="28px" fill="#276BBD">
+        文案四字
+      </tspan>
+      <tspan y="588" x="48" font-size="28px" fill="#276BBD">
+        文案四字
+      </tspan>
+
+      <tspan y="376" x="575" font-size="60px" fill="#BD2727" font-family="hobostd">
+        321
+      </tspan>
+      <tspan y="457" x="442" font-size="28px" fill="#D81845">
+        这个文案七个字
+      </tspan>
+      <tspan y="525" x="442" font-size="28px" fill="#D81845">
+        文案四字
+      </tspan>
+      <tspan y="588" x="442" font-size="28px" fill="#D81845">
+        文案四字
+      </tspan>
+
+      <tspan y="883" x="186" font-size="60px" fill="#BD2727" font-family="hobostd">
+        86
+      </tspan>
+      <tspan y="964" x="48" font-size="28px" fill="#3F8535">
+        这个文案七个字
+      </tspan>
+      <tspan y="1032" x="48" font-size="28px" fill="#3F8535">
+        文案四字
+      </tspan>
+      <tspan y="1095" x="48" font-size="28px" fill="#3F8535">
+        文案四字
+      </tspan>
+
+       <tspan y="883" x="575" font-size="60px" fill="#BD2727" font-family="hobostd">
+        231
+      </tspan>
+      <tspan y="964" x="442" font-size="28px" fill="#AC6B26">
+        这个文案七个字
+      </tspan>
+      <tspan y="1032" x="442" font-size="28px" fill="#AC6B26">
+        文案四字
+      </tspan>
+      <tspan y="1095" x="442" font-size="28px" fill="#AC6B26">
+        文案四字
+      </tspan>
+
+    </text>
+     <image y="642" x="328" id="avatar" width="96px" height="96px"
+      xlink:href="https://wx.qlogo.cn/mmopen/vi_32/DYAIOgq83eomHASaiaXLqQ8IFZibqsDmUgCeTjDmpg9iaofia4LvjmQk646H6JqskcXdGib3oJYxcOl2PUZNY7kOEiaw/132"/>
+       <image y="642" x="328" xlink:href="/Users/godykc/Downloads/Group_slices/Oval.png"/>
+
+      <circle cx="307" cy="757" r="14" stroke="white" stroke-width="2" fill="white"/>
+      <circle cx="442" cy="757" r="14" stroke="white" stroke-width="2" fill="white"/>
+      <rect x="307" y="742" width="135" height="30" fill="white"/>
+      <text y="764" x="317" id="nickName" font-size="22px" fill="#BD2727">姚大仙来也</text>
+</svg>

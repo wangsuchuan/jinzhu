@@ -1,0 +1,20 @@
+spring.profiles.active: dev
+
+wx:
+  mp:
+    configs:
+      - appId: wx8334918f147b89a5
+        secret: 19cd4606235b86623b988b7075d9b864
+        token: eXizKmnKlnP1zlTQOm8Ol6uvwphKoBIJ
+        aesKey: dRkFryJ2OggOytTPTK9kAd9LaF0msM5z377xP2MvRws
+      - appId: wx1fb44363895e4ee0
+        secret: 4b75bb82bdbe1a3b1a1bbecdf5c0601b
+        token: TKAYvL66FmbmlfS57nmxpyMX3uHOiIyg
+        aesKey: IKXsMbMrHEi0p9nLUiyZEndC1VPU3xcGhhrYeTncUGx
+
+# 异步线程池配置
+async:
+    threadNamePrefix: weixin-mp-async-
+    maxPoolSize: 5
+    corePoolSize: 2
+    queueCapacity: 20
